@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiJunHo-GreenRibbon&show_icons=true&theme=dark&repo=lifecatch-front)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiJunHo-GreenRibbon&show_icons=true&theme=dark&count_private=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJunHo-GreenRibbon&layout=Demo&theme=dark)
